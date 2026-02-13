@@ -53,16 +53,8 @@ https://www.kaggle.com/datasets/saurav9786/amazon-product-reviews/data
 amazon-electronics-data-mining/
 │
 ├── notebooks/
-│   ├── 01_eda.ipynb
-│   ├── 02_frequent_itemsets.ipynb
-│   ├── 03_recommendation_model.ipynb
-│   └── 04_hybrid_evaluation.ipynb
 │
 ├── src/
-│   ├── preprocessing.py
-│   ├── rules.py
-│   ├── recommender.py
-│   └── evaluation.py
 │
 ├── requirements.txt
 └── README.md

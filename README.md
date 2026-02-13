@@ -35,8 +35,8 @@ This project investigates whether rule-based patterns can meaningfully support o
 ## Dataset
 
 **Source:**  
-UCSD Amazon Product Data  
-https://jmcauley.ucsd.edu/data/amazon/
+Amaozn Product Reviews  
+https://www.kaggle.com/datasets/saurav9786/amazon-product-reviews/data
 
 **Category Used:** Electronics
 

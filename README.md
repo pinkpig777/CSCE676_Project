@@ -49,7 +49,7 @@ https://jmcauley.ucsd.edu/data/amazon/
 ---
 
 ## Project Structure
-
+```
 amazon-electronics-data-mining/
 │
 ├── notebooks/
@@ -66,7 +66,7 @@ amazon-electronics-data-mining/
 │
 ├── requirements.txt
 └── README.md
-
+```
 ---
 
 ## Phase 1 – Exploratory Data Analysis

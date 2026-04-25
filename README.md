@@ -222,8 +222,7 @@ requirements.txt
 │   ├── basket_size_distribution_log.png
 │   ├── support_vs_pattern_count.png
 │   ├── top10_product_pagerank.png
-│   └── decision_tree_interpretability.png
-└── .gitignore
+│  └── decision_tree_interpretability.png
 ```
 
 The raw Amazon Electronics dataset is too large to commit. The `data/README.md` file should explain where to download it and where to place it locally or in Google Drive.

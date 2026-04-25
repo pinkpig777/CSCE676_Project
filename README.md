@@ -10,9 +10,8 @@ The project builds a layered data mining pipeline using Spark, Bloom Filters, Mi
 
 ## Project Video
 
-🎥 **Project video:** [Add your Google Drive / YouTube / Canvas-accessible video link here]
+🎥 **Project video:** [https://www.youtube.com/watch?v=mnxOb5MZhDk&feature=youtu.be]
 
-Make sure the video link is accessible to the instruction team before submitting. Test it in an incognito window, because private links are where good submissions go to die quietly.
 
 ## Research Questions
 

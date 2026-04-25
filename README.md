@@ -48,6 +48,8 @@ This question compares unordered frequent itemsets with temporally ordered produ
 
 This project uses the **Amazon Electronics Ratings Dataset**, where each row represents one user-product interaction:
 
+dataset download url: https://www.kaggle.com/datasets/pritech/ratings-electronics
+
 ```text
 userId, productId, rating, timestamp
 ```
